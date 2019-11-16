@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my Deskedge site
 
-You can use the [editor on GitHub](https://github.com/ewjy/deskedge/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+As the name tells, works appearing here are not a part of my essential university life, but produced during free time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I would appreciate if you can give opinions and suggestions to my works.
 
 ### Markdown
 
