@@ -11,12 +11,12 @@ Nā-sī lí ū jīm-hô ì-kiàn iá-sī kiàn-gī ē-tàng hōo-guá, guá-ē h
 [Link](url)
 ```
 
-## 歡迎來到𠊎个桌角 Fôn-ngiàng lòi-to ngài-ke chok-kok
+## 歡迎來到我个桌角 Fôn-ngiàng lòi-to ngài-ke chok-kok
 
-顧名思義，這係𠊎食飽太閒个時節做出來个一息仔東西。  
+顧名思義，這係我食飽太閒个時節做出來个一息仔東西。  
 Ku-miàng-sṳ̂-ngi, liá-he ngài sṳ̍t-páu-thai-hàn ke sṳ̀-chiet cho chhut-lòi ke yit-sit-è tûng-sî.
 
-若係你有任何意見還係建議分𠊎，𠊎會盡感激。  
+若係你有任何意見還係建議分我，我會盡感激。  
 Na-he ngì yû yim-hò yi-kien hàn-he kien-ngi pûn ngài, ngài voi chhin kám-kit.
 
 ### 目前提供个專案 Muk-chhièn thì-kiûng ke chôn-on
