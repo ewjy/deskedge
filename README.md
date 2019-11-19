@@ -8,7 +8,8 @@ Nā-sī lí ū jīm-hô ì-kiàn iá-sī kiàn-gī ē-tàng hōo-guá, guá-ē h
 
 ### 目前提供的專案 Bo̍k-tsiân thê-kiong ê tsuan-àn
 ```
-[Link](url)
+[臺灣南島語系字詞資料庫](猶未做了)
+[臺灣漢語族字詞資料庫](猶未做了)
 ```
 
 ## 歡迎來到我个桌角 Fôn-ngiàng lòi-to ngài-ke chok-kok
@@ -21,7 +22,8 @@ Na-he ngì yû yim-hò yi-kien hàn-he kien-ngi pûn ngài, ngài voi chhin kám
 
 ### 目前提供个專案 Muk-chhièn thì-kiûng ke chôn-on
 ```
-[Link](url)
+[臺灣南島語系字詞資料庫](還吂好勢)
+[臺灣漢語族字詞資料庫](還吂好勢)
 ```
 
 ## Welcome to my Deskedge site
@@ -33,5 +35,6 @@ I would appreciate if you can give opinions and suggestions to my works.
 ### Currently available
 
 ```
-[Link](url)
+[Formosan languages database of words and phrases](under construction)
+[Taiwanese Sinitic/Chinese languages database of words and phrases](under construction)
 ```
