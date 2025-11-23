@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>臺北市機車管制/開放 查詢</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>臺北市機車管制/開放 查詢</h1>
+    <p class="subtitle">依管制類別、行政區快速瀏覽三項清單</p>
+  </header>
+
+  <section class="controls">
+    <div class="control-group">
+      <label for="categorySelect">管制類別</label>
+      <select id="categorySelect">
+        <option value="">全部</option>
+      </select>
+    </div>
+    <div class="control-group">
+      <label for="districtSelect">行政區</label>
+      <select id="districtSelect">
+        <option value="">全部</option>
+      </select>
+    </div>
+    <div class="control-group">
+      <label for="yearSelect">實施年份</label>
+      <select id="yearSelect">
+        <option value="">全部</option>
+      </select>
+    </div>
+    <div class="control-group">
+      <label for="searchInput">關鍵字</label>
+      <input id="searchInput" type="search" placeholder="輸入路段/路口/備註關鍵字" />
+    </div>
+    <div class="control-group">
+      <label>CORS Proxy</label>
+      <div class="toggle-wrapper">
+        <label class="toggle-switch">
+          <input id="proxyToggle" type="checkbox" />
+          <span class="toggle-slider"></span>
+        </label>
+        <span class="toggle-label" id="proxyLabel">關</span>
+      </div>
+    </div>
+    <div class="control-group">
+      <button id="reloadBtn" type="button">強制更新資料</button>
+    </div>
+  </section>
+
+  <section class="status">
+    <div id="statusMsg">資料載入中...</div>
+    <div>資料時間：<span id="dataTime">—</span></div>
+  </section>
+
+  <section class="results">
+    <div class="summary">
+      <span id="totalCount">0</span> 筆結果
+    </div>
+    <div class="table-wrapper">
+      <table id="resultTable">
+        <thead>
+          <tr>
+            <th>管制類別</th>
+            <th>行政區</th>
+            <th>地點/路段</th>
+            <th>實施年份</th>
+            <th>來源</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer>
+    <small>
+      資料來源：臺北市政府開放資料平台。此頁面使用 CORS Proxy 進行跨來源存取。
+    </small>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
